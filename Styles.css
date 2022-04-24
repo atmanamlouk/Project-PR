@@ -1,0 +1,18 @@
+ul{
+    text-decoration: none;
+    color: blue;
+    background-color: gold;
+    padding: 10px;
+    display:flex;
+    justify-content: space-around;
+    
+}
+.img{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    
+}
